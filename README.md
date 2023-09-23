@@ -36,8 +36,5 @@ yarn start
 To test, you can create an app definition in your Contentful organization settings pointing to `http://localhost:3000` and registering both the `app-config` and `page` locations.
 
 [Read the docs](https://www.contentful.com/developers/docs/extensibility/app-framework/) for more information.
-=======
-# Contentful-Custom-Import-Export-Page-App
-Contentful Page App that allows you to export and import data via csv file
->>>>>>> 48fecc95b11329a3325a22bd13d4e8c20ed2ab8c
+
 
